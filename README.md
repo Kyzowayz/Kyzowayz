@@ -59,7 +59,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kyzowayz&show_icons=true&theme=radical&hide_border=true&title_color=F75C7E&icon_color=F8D866" alt="Kyzowayz's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kyzowayz&show_icons=true&theme=radical&hide_border=true&title_color=F75C7E&icon_color=F8D866&count_private=true" alt="Kyzowayz's GitHub Stats" />
 </p>
 
 <p align="center">
